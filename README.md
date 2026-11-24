@@ -1,3 +1,13 @@
+## Deliverables
+
+- **Product Management brief:** [README.md](README.md)
+- **Product Design brief:** [DESIGN_BRIEF.md](DESIGN_BRIEF.md)
+- **Live prototype:** https://claude.ai/artifact/RQgrNzxr2eWZPC9aruAbfY
+- **ML pipeline:** `save_model.py`, `pipeline_video.py`
+- **Agent:** `agent.py`, `predict.py`
+- **Playbook:** `playbook.md`
+
+
 # Post Agent: telling artist marketing teams what to fix in their next short-form video
 
 A product proposal and working prototype for an artist's marketing team. It reads a spreadsheet of posted short-form videos, predicts each video's chance of passing 100,000 views, finds the metric holding it back, and writes specific advice for the next video.
